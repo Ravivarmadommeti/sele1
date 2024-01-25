@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-04T15:17:42 IST" name="Default suite" finished-at="2024-01-04T15:17:48 IST" duration-ms="6101">
+    <groups>
+    </groups>
+    <test started-at="2024-01-04T15:17:42 IST" name="Default test" finished-at="2024-01-04T15:17:48 IST" duration-ms="6101">
+      <class name="fb">
+        <test-method signature="ab(java.lang.String, [Ljava.lang.CharSequence;)[pri:0, instance:fb@68999068]" started-at="2024-01-04T15:17:42 IST" name="ab" data-provider="data" finished-at="2024-01-04T15:17:48 IST" duration-ms="5444" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravivarma.d1378@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.CharSequence;@5e65afb6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ab -->
+      </class> <!-- fb -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
